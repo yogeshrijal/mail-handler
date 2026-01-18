@@ -39,7 +39,7 @@ Mail Handler is a scalable bulk email sending service built with a REST API. It 
 **Endpoint**
 
 ```
-POST /api/send-mail/
+POST /mail/
 ```
 
 **Headers**
